@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+title: [MideaFun Intelligent Oven]
+description: [看得见美味的烤箱]
+
+show_downloads: ["false"]
